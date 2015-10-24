@@ -1,0 +1,10 @@
+D:\Anti Black ANT\Anti Black ANT\bin\Debug\Anti Black ANT.exe
+D:\Anti Black ANT\Anti Black ANT\bin\Debug\Anti Black ANT.pdb
+D:\Anti Black ANT\Anti Black ANT\obj\Debug\Anti_Black_ANT.MainForm.resources
+D:\Anti Black ANT\Anti Black ANT\obj\Debug\Anti_Black_ANT.Properties.Resources.resources
+D:\Anti Black ANT\Anti Black ANT\obj\Debug\Anti Black ANT.csproj.GenerateResource.Cache
+D:\Anti Black ANT\Anti Black ANT\obj\Debug\Anti Black ANT.exe
+D:\Anti Black ANT\Anti Black ANT\obj\Debug\Anti Black ANT.pdb
+D:\Anti Black ANT\Anti Black ANT\bin\Debug\InputSimulator.dll
+D:\Anti Black ANT\Anti Black ANT\bin\Debug\Ionic.Zip.dll
+D:\Anti Black ANT\Anti Black ANT\obj\Debug\Anti Black ANT.csprojResolveAssemblyReference.cache
